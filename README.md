@@ -30,5 +30,5 @@ This project demonstrates the practical application of core project management t
 
 ---
 
-**Authors**: Group 2 (Falcon)  
+**Author**: Vibhuti Jaiswal  
 **Course**: MG4205 Project Management – Work Based Learning
